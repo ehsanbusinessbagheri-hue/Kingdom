@@ -1,0 +1,3 @@
+# فایل .replit
+run = "python bot.py"
+language = "python3"
